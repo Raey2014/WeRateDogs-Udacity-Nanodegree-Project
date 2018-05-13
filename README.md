@@ -8,7 +8,7 @@ The goal of the project: Gathering and combining multiple datasets of WeRateDogs
 
 Based on the data analysis I found that better dogs are twitted recently. The question is why? Maybe more good dogs pictures are coming to Twitter or good dogs are more breeding, or the WeDogRates might be more generous these years.
 
-Software and Libraries used <br />
+Software and Libraries used: <br />
     pandas <br />
     numpy <br />
     seaborn <br />
